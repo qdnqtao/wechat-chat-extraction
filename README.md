@@ -24,7 +24,9 @@
 
 ### 下载
 
-前往 [Releases](https://github.com/qdnqtao/wechat-chat-extraction/releases) 页面下载 `WeChatChatExtraction.exe`（约 87MB，单文件，无需安装 Python）。
+前往 [Releases](https://github.com/qdnqtao/wechat-chat-extraction/releases/tag/v1.0.0) 页面下载 `WeChatChatExtraction.exe`（约 64MB，单文件，免安装，不需要 Python）。
+
+变更记录见 [RELEASE_NOTES.md](RELEASE_NOTES.md)。
 
 ### 环境要求
 
