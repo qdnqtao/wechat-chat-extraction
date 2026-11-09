@@ -1,0 +1,33 @@
+Copyright (c) 2026 qdnqtao ("Author"). All rights reserved.
+
+SOFTWARE LICENSE AGREEMENT
+
+1. GRANT OF LICENSE
+   The Author grants you a non-exclusive, non-transferable, revocable license
+   to download and use the compiled binary ("Software") for personal,
+   non-commercial purposes only.
+
+2. RESTRICTIONS
+   You may NOT:
+   (a) Reverse engineer, decompile, disassemble, or otherwise attempt to
+       derive the source code of the Software.
+   (b) Copy, redistribute, resell, sublicense, or bundle the Software
+       with other products without written permission from the Author.
+   (c) Remove, alter, or obscure any copyright notices, trademarks,
+       or application branding.
+   (d) Use the Software for commercial purposes (including offering
+       paid services that depend on the Software) without a separate
+       commercial license from the Author.
+
+3. NO WARRANTY
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,
+   EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
+   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
+
+4. TERMINATION
+   This license terminates automatically if you violate any of its terms.
+
+5. COPYRIGHT
+   All intellectual property rights in the Software, including but not
+   limited to source code, algorithms, prompt templates, and architecture,
+   remain the sole property of the Author.
