@@ -255,3 +255,15 @@ assets/
 *.json
 *.txt
 *.cfg
+
+# === 本地实测产物（含真实聊天数据，绝对不可提交）===
+/_test_out/
+/_shots/
+/_tools_*/
+/_tools_*.py
+/_test_run.log
+/hooks/
+
+# 公开文档截图（README 用，已脱敏）允许提交
+!docs/
+!docs/*.png
